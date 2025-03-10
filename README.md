@@ -6,10 +6,6 @@
 
 
 <div>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jhdgo1225&theme=tokyonight_duo" height="150"/>
-</div>
-
-<div>
   <a href="https://solved.ac/profile/jhpark991230">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhpark991230" alt="Solved.ac" width="310" height="150"/>
   </a>
