@@ -9,7 +9,6 @@
   <a href="https://solved.ac/profile/jhpark991230">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhpark991230" alt="Solved.ac" width="310" height="150"/>
   </a>
-  &nbsp;
   <a href="https://solved.ac/jhpark991230">
     <img src="http://mazandi.herokuapp.com/api?handle=jhpark991230&theme=dark" width="330" height="153"/>
   </a>
