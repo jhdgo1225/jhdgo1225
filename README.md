@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=300&section=header&text=jhdgo1225%20Workspace&fontSize=60&fontColor=FFFFFF)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=radical&show_icons=true&username=jhdgo1225)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhdgo1225&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdgo1225)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jhdgo1225&theme=tokyonight_duo" height="150"/>
