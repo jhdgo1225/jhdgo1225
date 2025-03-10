@@ -9,6 +9,6 @@
   </a>
   &nbsp;
   <a href="https://solved.ac/jhpark991230">
-    <img src="http://mazandi.herokuapp.com/api?handle=jhpark991230&theme=light" width="330" height="153"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=jhpark991230&theme=dark" width="330" height="153"/>
   </a>
 </div>
