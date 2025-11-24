@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6A89A7&height=280&section=header&text=jhdgo1225%20Workspace&fontSize=48&fontColor=FFFFFF)
-### 🧙 About me
+## 🧙 About me
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhdgo1225)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,7 +11,7 @@
 
 - I demonstrate effective communication skills, enabling smooth collaboration with both developers and cross-functional teams.
 
-### 💻 Tech Stacks
+## 💻 Tech Stacks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhdgo1225&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,7 +48,7 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/discord-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white) ![Slack](https://img.shields.io/badge/slack-%2340B056.svg?style=for-the-badge&logo=slack&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-9C56F7?style=for-the-badge&logo=figma&logoColor=white)
 
-### Problem Solving
+## Problem Solving
 
 <div>
   <a href="https://solved.ac/profile/jhpark991230">
